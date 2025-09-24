@@ -1,5 +1,6 @@
 echo "# BingoNumberGenerator" >> README.md
 git init
+git add index.html
 git add README.md
 git commit -m "first commit"
 git branch -M main
@@ -189,5 +190,6 @@ git push -u origin main
 </body>
 </html>
 git push -u origin main
+
 
 
